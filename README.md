@@ -1,2 +1,28 @@
-# Sales_Distribution_Dashboard
-Interactive Excel Sales Distribution Dashboard with KPIs, monthly and weekly trends, top customers and products, and regional and country-level insights. Designed with a clean layout and slicers for quick, flexible data exploration.
+# Sales_Distribution_Dashboard :
+This repository contains an interactive Sales Distribution Dashboard built in Microsoft Excel. The dashboard brings key sales metrics together in a single, easy-to-navigate view, allowing users to quickly analyze performance across customers, products, regions, and time periods.
+
+•Features
+- Total Sales Overview
+- Monthly Performance (Target vs. Actual)
+- Weekly Trend Analysis
+- Top Customers and Top Products
+- Regional and Country-Level Sales Distribution
+- Interactive Slicers for quick filtering
+- Clean and structured visual layout for easy interpretation
+
+• Built With
+- Microsoft Excel
+- Pivot Tables
+- Various chart types (bar, line, donut, treemap)
+- Slicers and interactive components
+
+• Use Cases
+- Sales reporting and presentations
+- Performance monitoring
+- Product or category analysis
+- Regional market comparison
+
+• Example of Excel-based business intelligence dashboards
+
+• License
+- This project is available for personal and educational use. Modify or extend as needed.
